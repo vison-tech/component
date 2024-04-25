@@ -36,11 +36,11 @@ dingding-message-sdk - 钉钉消息发送SDK
 
 3.  在需要发送钉钉通知的项目中引入依赖
 
-    <dependency>
-        <groupId>com.vison</groupId>
-        <artifactId>dingtalk-sdk</artifactId>
-        <version>1.0.0</version>
-    </dependency>
+        <dependency>
+            <groupId>com.vison</groupId>
+            <artifactId>dingtalk-sdk</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     
 4.  配置文件中新增配置：
  
